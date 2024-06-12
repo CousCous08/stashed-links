@@ -1,0 +1,16 @@
+{
+  "name": "stashed-links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysten/sui": "^1.1.1",
+    "@mysten/zksend": "^0.9.7"
+  }
+}
